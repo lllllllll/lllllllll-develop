@@ -1,0 +1,8 @@
+export { default as Hello } from './hello'
+export { default as Elements } from './elements'
+export { default as Expereince } from './expereince'
+export { default as Language } from './language'
+export { default as Devops } from './devops'
+export { default as Education } from './education'
+export { default as Interests } from './interests'
+export { default as Goodbye } from './goodbye'
